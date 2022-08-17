@@ -9,8 +9,8 @@
                         <p>
                             54 Văn Cao, Thành phố Đà Nẵng <br>
                             VN<br><br>
-                            <strong>Phone:</strong> 070 717 3740<br>
-                            <strong>Zalo:</strong> 0120 717 3740 <br>
+                            <strong>Phone:</strong> 077 740 7752<br>
+                            <strong>Zalo:</strong> 070 717 3740 <br>
                             <strong>Email:</strong> mytiacompany@gmail.com<br>
                         </p>
                         <div class="social-links mt-3">

@@ -5,8 +5,8 @@
 
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
-                    <h1>Công ty tư vấn thiết kế và xây dựng Mytia<span>.</span></h1>
-                    <h2>Sờ lo gần</h2>
+                    <h1>Công ty tư vấn thiết kế và xây dựng Mytia</h1>
+                    <h2>Đẹp - Tiện Nghi - Độc Đáo</h2>
                 </div>
             </div>
 
@@ -55,10 +55,6 @@
                 </div>
 
                 <div>
-                    {{-- <iframe style="border:0; width: 100%; height: 270px;"
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
-                        frameborder="0" allowfullscreen></iframe> --}}
-
                     <iframe style="border:0; width: 100%; height: 270px;"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.021089214812!2d108.20740801482972!3d16.064395388883934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219b4c7f837bd%3A0x490ea7b2e132e521!2zNTQgVsSDbiBDYW8sIFRo4bqhYyBHacOhbiwgVGhhbmggS2jDqiwgxJDDoCBO4bq1bmcgNTUwMDAwLCBWaWV0bmFt!5e0!3m2!1sen!2sus!4v1654576936035!5m2!1sen!2sus"
                         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
